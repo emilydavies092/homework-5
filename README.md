@@ -3,7 +3,7 @@ UNC Bootcamp Homework #5
 
 This application uses the Moment.js library to create a work day calendar which helps users to manage time effectively. 
 
-![screenshot](/assets/screenshot1.PNG "Screenshot of application")
+![screenshot](/Assets/screenshot1.PNG "Screenshot of application")
 
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
